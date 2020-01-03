@@ -2,8 +2,8 @@
 --	Created by: James Nierodzik
 --	Created on: 12/15/19
 --
---	Copyright © 2019 Casa de Santiago, All Rights Reserved
---   Free for personal use, but must be licenses for commercial use.
+--	Copyright Â© 2019 Casa de Santiago, All Rights Reserved
+--   Free for personal use, but must be licensed for commercial use.
 --
 --   If you like this buy me a dram or better yet a bottle ;-)
 --   https://paypal.me/jnierodzik
