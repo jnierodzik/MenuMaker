@@ -3,9 +3,8 @@
 <p align="center"> 
 
   <h1 align="center">MenuMaker</h1>
-
+  <h3 align="center">Show off your spirts collection in style!</h3>
   <p align="center">
-    <h3>Show off your spirts collection in style!</h3><br />
   If you like this buy me a dram or better yet a bottle ;-)
 https://paypal.me/jnierodzik
   </p>
