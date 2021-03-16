@@ -25,7 +25,6 @@ https://paypal.me/jnierodzik
     <li><a href="#prerequisites">Prerequisites</a></li>   
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#resources">Resources</a></li>
   </ol>
@@ -38,16 +37,17 @@ https://paypal.me/jnierodzik
 
 ![product-screenshot]
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+As an avid whiskey drinker I found that cataloging my collection was rather easy with spreadsheets and other pre-existing tools. What I lacked though was a way to elegantly present it to friends and family that would visit and thus the MenuMaker Project was born.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+I wanted to create a tool that would take a common data source and automate the menu creation suporting:
+* Page spanning
+* Header insertion
+* Multiple data points (Brand, Expression, Distillery, Proof)
+* Iconography labels (Bottled in Bond, Barrel Proof, Wheated)
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+Of course, no one menu will serve all since your needs and spirit of choice may be different. So I'll be adding working to make the script more open to changes in the future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+To see the whole menu, as of January 2020, check out the [gallery](https://imgur.com/gallery/c8WXLgU)
 
 ### Built With
 
@@ -56,7 +56,6 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * Mac OS X
 * InDesign
 
@@ -77,14 +76,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 
 
 <!-- CONTACT -->
