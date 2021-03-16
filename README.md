@@ -2,10 +2,10 @@
 <br />
 <p align="center"> 
 
-  <h2 align="center">MenuMaker</h2>
+  <h1 align="center">MenuMaker</h1>
 
   <p align="center">
-    Show off your spirtis collection in style!<br />
+    <h3>Show off your spirts collection in style!</h3><br />
   If you like this buy me a dram or better yet a bottle ;-)
 https://paypal.me/jnierodzik
   </p>
