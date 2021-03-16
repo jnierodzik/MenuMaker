@@ -1,10 +1,3 @@
-
-Applescript that takes a Whiskey Collection tsv and creates a menu layout in InDesign
-
-If you like this buy me a dram or better yet a bottle ;-)
-https://paypal.me/jnierodzik
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center"> 
@@ -12,7 +5,9 @@ https://paypal.me/jnierodzik
   <h2 align="center">MenuMaker</h2>
 
   <p align="center">
-    Show off your spirtis collection in style!
+    Show off your spirtis collection in style!<br />
+  If you like this buy me a dram or better yet a bottle ;-)
+https://paypal.me/jnierodzik
   </p>
 </p>
 
@@ -40,7 +35,7 @@ https://paypal.me/jnierodzik
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#resources">Resources</a></li>
   </ol>
 </details>
 
@@ -140,7 +135,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Jay Nierodzik - [@jnierodzik](https://www.linkedin.com/in/jnierodzik/)
 
-Project Link: [https://github.com/jnierodzik/MenuMaker](https://github.com/jnierodzik/MenuMake)
+Project Link: [https://github.com/jnierodzik/MenuMaker](https://github.com/jnierodzik/MenuMaker)
+
+
+<!-- RESOURCES -->
+## Resources
+
+Menu Cover: [Marquee Menus](http://marqueemenus.com)
+
+Paper: [Amazon](https://www.amazon.com/gp/product/B01M1Y4XFQ)
 
 
 
