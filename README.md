@@ -12,16 +12,7 @@ https://paypal.me/jnierodzik
   <h2 align="center">MenuMaker</h2>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    Show off your spirtis collection in style!
   </p>
 </p>
 
@@ -158,4 +149,4 @@ Project Link: [https://github.com/jnierodzik/MenuMaker](https://github.com/jnier
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://i.imgur.com/MhG0Bbd.jpg
