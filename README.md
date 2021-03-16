@@ -9,7 +9,7 @@ https://paypal.me/jnierodzik
 <br />
 <p align="center"> 
 
-  <h3 align="center">MenuMaker</h3>
+  <h2 align="center">MenuMaker</h2>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -120,7 +120,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/jnierodzik/MenuMaker/issues/) for a list of proposed features (and known issues).
 
 
 
@@ -147,7 +147,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Jay Nierodzik - [@jnierodzik](https://www.linkedin.com/in/jnierodzik/)
 
 Project Link: [https://github.com/jnierodzik/MenuMaker](https://github.com/jnierodzik/MenuMake)
 
