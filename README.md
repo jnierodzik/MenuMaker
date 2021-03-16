@@ -1,25 +1,15 @@
-# MenuMaker
+
 Applescript that takes a Whiskey Collection tsv and creates a menu layout in InDesign
 
 If you like this buy me a dram or better yet a bottle ;-)
 https://paypal.me/jnierodzik
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
 
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+<p align="center"> 
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">MenuMaker</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -83,12 +73,8 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
-
+* [AppleScript](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
+* [InDesign](https://www.adobe.com/products/indesign.html)
 
 <!-- GETTING STARTED -->
 ## Getting Started
